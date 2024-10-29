@@ -1,5 +1,5 @@
 {
-    "name": "dps-software-srl/php-dps-lib",
+    "name": "dps-software-srl/php-dps-libs",
     "autoload": {
         "psr-4": {
             "Dps\\": "src/"
