@@ -1,0 +1,30 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "vlucas/phpdotenv": "^5.5",
+        "lcobucci/jwt": "^4.2",
+        "dps-software-srl/php-mysql-lib": "*",
+        "dps-software-srl/php-mailjet-lib": "*",
+        "dps-software-srl/php-csrf-lib": "*",
+        "dps-software-srl/php-smarty-lib": "*"
+    },
+
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:dps-software-srl/php-mysql-lib.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:dps-software-srl/php-mailjet-lib.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:dps-software-srl/php-csrf-lib.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:dps-software-srl/php-smarty-lib.git"
+        }
+    ]
+}
