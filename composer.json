@@ -1,4 +1,11 @@
 {
+    "name": "dps-software-srl/php-dps-lib",
+    "autoload": {
+        "psr-4": {
+            "Dps\\": "src/"
+        }
+    },
+
     "require": {
         "guzzlehttp/guzzle": "^7.0",
         "vlucas/phpdotenv": "^5.5",
