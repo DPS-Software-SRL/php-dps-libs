@@ -58,6 +58,7 @@ KINT_FIXED                 = true
 KINT_SHOW_DEBUGINFO_AL_PIE = false
 
 SEND_EMAILS       = true
+# SEND_EMAILS_TO    = 'yo@softwaredps.com.ar'
 SEND_EMAILS_TO_ONLY_FOR_DEBUG = "alguien@gmail.com"
 MJ_FROM_NAME      = "PumaDigital"
 MJ_FROM_EMAIL     = "noresponder.turnado@pumadigital.com.ar"
