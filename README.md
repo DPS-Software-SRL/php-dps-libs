@@ -13,6 +13,7 @@ Librerías comunes a sistemas DPS
 * dps-software-srl/php-mailjet-lib
 * dps-software-srl/php-csrf-lib
 * dps-software-srl/php-smarty-lib
+* dps-software-srl/php-error-lib
 
 
 # Archivo .env ideal para utilizar con estas librerias    
@@ -66,4 +67,7 @@ MJ_APIKEY_PUBLIC  = "35dbc2"  # TOKENS DE MAILJET
 MJ_APIKEY_PRIVATE = "0c956"  # TOKENS DE MAILJET
 
 SHOW_GIT_BRANCH  = true
+
+TEMPLATES_FOLDER = ${PATH_NOPUBLIC}/templates
+
 ```

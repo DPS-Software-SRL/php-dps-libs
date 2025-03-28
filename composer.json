@@ -15,6 +15,7 @@
         "dps-software-srl/php-mysql-lib": "*",
         "dps-software-srl/php-mailjet-lib": "*",
         "dps-software-srl/php-csrf-lib": "*",
-        "dps-software-srl/php-smarty-lib": "*"
+        "dps-software-srl/php-smarty-lib": "*",
+        "dps-software-srl/php-error-lib": "*"
     }    
 }
